@@ -52,6 +52,20 @@ Clone it, rename it, ship it — everything is wired up from day one.
 
 ---
 
+
+
+## Related Templates
+
+Looking for a different language? Check out the other todie templates:
+
+| Template | Stack |
+|----------|-------|
+| [template-rust](https://github.com/todie/template-rust) | Rust · clippy · cargo-deny · nextest |
+| [template-node](https://github.com/todie/template-node) | Node.js · TypeScript · Vitest · Biome |
+| [template-terraform](https://github.com/todie/template-terraform) | Terraform · TFLint · Checkov · OPA |
+
+---
+
 ## License
 
 MIT (c) 2026 todie.io
